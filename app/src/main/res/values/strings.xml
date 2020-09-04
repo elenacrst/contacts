@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WW-Exercise-02</string>
+
+    <string name="title_activity_main">Contact List</string>
+    <string name="title_activity_contact">Contact Editor</string>
+    <string name="hint_number">Number</string>
+    <string name="mode">Switch mode</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="action_save">Save</string>
+</resources>
